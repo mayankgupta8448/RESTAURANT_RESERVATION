@@ -4,6 +4,8 @@ A full-stack restaurant reservation web app built with **MongoDB**, **Express.js
 
 > Built by **mayankgupta8448**
 
+🔗 **Live Demo:** [https://frontend-liard-six-33.vercel.app](https://frontend-liard-six-33.vercel.app)
+
 ---
 
 ## 📋 Prerequisites
